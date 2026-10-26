@@ -3,7 +3,7 @@
 Homebrew formulae.
 
 ```bash
-brew install emredagci/tap/<formula>
+brew install emredagci/tap/sbrain
 ```
 
 | Formula | |
