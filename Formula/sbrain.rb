@@ -12,22 +12,22 @@ class Sbrain < Formula
   on_macos do
     on_arm do
       url "https://github.com/emredagci/sbrain/releases/download/0.1.0/sbrain-0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "a002ccc6a5f91e034ee8d4e4c05243027adccfb97f17459456a3adcbf7fa2256"
+      sha256 "1702b7814e7c879953613c75bd001f21fba1566fea48729dd9334e8336ca1918"
     end
     on_intel do
       url "https://github.com/emredagci/sbrain/releases/download/0.1.0/sbrain-0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "e6cf0bb426d031684708ab39b812f18193aeaf422f8758987d424f8b1ee021e7"
+      sha256 "632cd14f19c1937ae07b21f07cfd93b2145731b005a08dc55ac716aaf5607e46"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/emredagci/sbrain/releases/download/0.1.0/sbrain-0.1.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "6ab90086ba956e5733cb5ecc2a4d013775c45b7ed963fd2222b805d1cc4e1920"
+      sha256 "e5d2428df4d13fe61fabd64e6d5468d5f4ccc1a698d015a392c0b85b19d06657"
     end
     on_intel do
       url "https://github.com/emredagci/sbrain/releases/download/0.1.0/sbrain-0.1.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "a6a70aed0d9be0e6ad9a8eee9d9acab26e0588bae2e7bdfacc609d4c31e14ee1"
+      sha256 "eff440e96749d04c3cb017e5575761267122d28aa988f946583fc2cbe4cd5108"
     end
   end
 
