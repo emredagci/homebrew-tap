@@ -2,10 +2,6 @@
 
 Homebrew formulae.
 
-```bash
-brew install emredagci/tap/sbrain
-```
-
-| Formula | |
-| --- | --- |
-| [sbrain](https://github.com/emredagci/sbrain) | A second brain for your coding agent |
+| Formula | Install | |
+| --- | --- | --- |
+| [sbrain](https://github.com/emredagci/sbrain) | `brew install emredagci/tap/sbrain` | A second brain for your coding agent |
