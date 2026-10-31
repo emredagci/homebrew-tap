@@ -6,28 +6,28 @@
 class Reprise < Formula
   desc "Second brain for your coding agent"
   homepage "https://github.com/emredagci/reprise"
-  version "0.2.1"
+  version "0.2.2"
   license "Apache-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/emredagci/reprise/releases/download/0.2.1/reprise-0.2.1-macos-arm64.tar.gz"
-      sha256 "7928d351968801cb90a11063daacc9031a7d7fd575149c0a49239c896463f8f5"
+      url "https://github.com/emredagci/reprise/releases/download/0.2.2/reprise-0.2.2-macos-arm64.tar.gz"
+      sha256 "e0612d03c843109cea43922b2972ddd475ba30ccf60094a5397c37b51e945ea8"
     end
     on_intel do
-      url "https://github.com/emredagci/reprise/releases/download/0.2.1/reprise-0.2.1-macos-x86_64.tar.gz"
-      sha256 "b99f10bee69ac17a92b741a8f895fbc6a2d4196777b61c2c4eae3c1650f5c664"
+      url "https://github.com/emredagci/reprise/releases/download/0.2.2/reprise-0.2.2-macos-x86_64.tar.gz"
+      sha256 "2704aa93e7f6806f60b72d5ddca1bdcca074d81c6824690251afc0b2bc28fe8b"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/emredagci/reprise/releases/download/0.2.1/reprise-0.2.1-linux-arm64.tar.gz"
-      sha256 "acd041a7665fd760f50fc4ee8e46d5ebfca41a513e185eb749f8ab6725f77651"
+      url "https://github.com/emredagci/reprise/releases/download/0.2.2/reprise-0.2.2-linux-arm64.tar.gz"
+      sha256 "d91b8c0fae256ac7f8f93e2d7d8cedfcee889de6aab4360d79fff46614f7ff22"
     end
     on_intel do
-      url "https://github.com/emredagci/reprise/releases/download/0.2.1/reprise-0.2.1-linux-x86_64.tar.gz"
-      sha256 "0a717c1ce5b52529b1c2ed486a187c463266add90aaff31d23afd75f376ede26"
+      url "https://github.com/emredagci/reprise/releases/download/0.2.2/reprise-0.2.2-linux-x86_64.tar.gz"
+      sha256 "4e2861485fbd39a24560b29e26935541f7fd4e57873dccbab83fadc905396ca6"
     end
   end
 
